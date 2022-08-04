@@ -1,1 +1,0 @@
-{"instanceId":"64e0a826-cc72-454d-82a2-5445371d80f7","name":"psp","date":[{"timex":"2000","type":"daterange","start":"2000-01-01","end":"2001-01-01"}],"time":[{"timex":"T01","type":"time","value":"01:00:00"}],"reservationId":1}
