@@ -256,5 +256,6 @@ class EchoBot extends ActivityHandler {
     await context.sendActivity(MessageFactory.attachment(card));
   }
 }
+// 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
 // ee27bd0b-0cea-4b3c-ae1e-13126771d4ea
 module.exports = { EchoBot };
